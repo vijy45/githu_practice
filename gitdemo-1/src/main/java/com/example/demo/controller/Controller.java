@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 	public String get()
 	{
-		return " ";
+		return ". ";
 	}
 
 }
